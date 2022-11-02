@@ -1,0 +1,48 @@
+h1{
+    color: blueviolet;
+}
+
+
+
+#header{
+    background-color: burlywood;
+    text-align: center;
+}
+
+blockquote{
+    background-color: yellow;
+    border: 1px dotted black;
+}
+
+.gambar{
+    text-align: center;
+}
+
+.little{
+    text-align: center;
+}
+
+.little ul li{
+    list-style: none;
+}
+
+.jawa{
+    color: blueviolet;
+    font-size: 75px;
+    font-weight: 100;
+}
+
+.promo{
+margin: auto;
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+}
+
+.promo p {
+    background-color: aqua;
+    border: 1px dotted red;
+    text-align: center;
+    font-weight: bold;
+    color: blue;
+}
